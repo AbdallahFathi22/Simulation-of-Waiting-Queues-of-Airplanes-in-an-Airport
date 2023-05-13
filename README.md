@@ -29,6 +29,10 @@ You will find an explanation of the development workflow of the project in that 
 
 You will find our Names and IDs in that file. 
 
+# Output.md
+
+You will find a sample of the program output in that file. 
+
 
 
 
