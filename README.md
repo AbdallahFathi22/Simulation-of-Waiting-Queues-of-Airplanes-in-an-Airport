@@ -19,7 +19,7 @@ main.cpp, which includes the main function of the program.
 
 # Design Directory 
 
-You will find the UML Class Diagram of the Project in Directory/Simulation-of-Airplanes.jpg
+You will find the UML Class Diagram of the Project in Design/Simulation-of-Airplanes.jpg
 
 # Development Workflow.md
 
